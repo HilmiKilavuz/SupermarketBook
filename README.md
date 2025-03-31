@@ -14,7 +14,11 @@ A mobile application built with Kotlin that helps users create a wishlist by sav
 
 ## Screenshots
 
-*[Add screenshots of your application here]*
+<p float="left">
+  <img src="SupermarketBook/screenshoots/items_list_screen.jpg" width="250" />
+  <img src="SupermarketBook/screenshoots/detail_screen.jpg" width="250" /> 
+  <img src="SupermarketBook/screenshoots/add_item_screen.jpg" width="250" />
+</p>
 
 ## Tech Stack
 
